@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/sumeet_k10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumeet_k10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumeet-kumar-793047215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumeet-kumar-793047215" height="30" width="40" /></a>
-<a href="https://gmail.com/in/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="sumeet.k2022@gmail.com" height="30" width="40" /></a>
+<a href="https://gmail.com/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="sumeet.k2022@gmail.com" height="30" width="40" /></a>
 </p>
 </br>
 <h3 align="left">Languages and Tools:</h3>

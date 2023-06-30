@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumeet</h1>
 <h2 align="left">About Me</h2>
 <ul>
-  <li>I am currently pursuing my bachelors in Electronics and Communication Engineering.</li>
+  <li>I am 2023 batch passout in Electronics and Communication Engineering.</li>
   <li>Open Source Enthusiast</li>
   <li>Into Web Dev and DSA</li>
 </ul>
